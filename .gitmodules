@@ -1,0 +1,12 @@
+[submodule "2017_scte35_decoder"]
+	path = 2017_scte35_decoder
+	url = https://github.com/chanyk-joseph/scte35_decoder
+[submodule "2018_joebot"]
+	path = 2018_joebot
+	url = https://github.com/harmonicinc-com/joebot
+[submodule "2019_audio_captcha_solver"]
+	path = 2019_audio_captcha_solver
+	url = https://github.com/chanyk-joseph/digits_sounds_recognizer
+[submodule "2018_genetic_algo_on_excel"]
+	path = 2018_genetic_algo_on_excel
+	url = https://github.com/chanyk-joseph/Genetic_Algo_On_Excel
