@@ -1,5 +1,12 @@
 # Projects Showcase
 
+## 2022
+
+* [Hobby: BTC Real Time IV Curve Construction & Visualization](https://github.com/chanyk-joseph/btc-option-iv-curve)  
+A simple python script to get the BTC implied volatility (IV) data from [deribit](https://www.deribit.com/) exchange using JSON-RPC over Websocket. Calculate and visualize the quadratic equation for the IV curves.     
+\
+**Tech Stack**: Python, Numpy, Websocket, Cryptocurrency
+
 ## 2021
 
 * [Cloud based Media(OTT) Endpoints Monitor](2021_media_monitor)  
