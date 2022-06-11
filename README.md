@@ -33,7 +33,7 @@ A NN model for recovering audio captcha to text (99% Accuracy after 100 epoch). 
 ## 2018
 
 * [Open Source: A Remote Desktop Application For Managing Machines Via Web Browser](https://github.com/harmonicinc-com/joebot)  
-An award-winning util for accessing machines across different networks via web portal. This util has been widely adopted in different internal projects for CI maintainance.  
+An award-winning util for accessing machines across different networks via web portal, just like a remote desktop application but on browser! This util has been widely adopted in different internal projects for CI maintainance.  
 \
 **Tech Stack**: Golang, VueJS, Networking (Proxy), SSH Tunnel, VNC, RestAPI, TCP/IP
 
