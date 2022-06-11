@@ -32,7 +32,7 @@ A NN model for recovering audio captcha to text (99% Accuracy after 100 epoch). 
 
 ## 2018
 
-* [Open Source: Command & Control Server For Managing Machines Via Web Interface](https://github.com/harmonicinc-com/joebot)  
+* [Open Source: A Remote Desktop Application For Managing Machines Via Web Browser](https://github.com/harmonicinc-com/joebot)  
 An award-winning util for accessing machines across different networks via web portal. This util has been widely adopted in different internal projects for CI maintainance.  
 \
 **Tech Stack**: Golang, VueJS, Networking (Proxy), SSH Tunnel, VNC, RestAPI, TCP/IP
